@@ -1,5 +1,5 @@
 # Traffic-Detection
-This is a Python program that uses OpenCV library to detect cars and pedestrians in images or videos. It is based on the Haar Cascade classifier, which is a machine learning technique that uses a cascade of simple features to identify objects in an image. The program uses the pre-trained models provided by OpenCV for car and pedestrian detection.
+This is a Python program that uses OpenCV library to detect cars and pedestrians in videos. It is based on the Haar Cascade classifier, which is a machine learning technique that uses a cascade of simple features to identify objects in an image. The program uses the pre-trained models provided by OpenCV for car and pedestrian detection.
 
 # Installation
 To run this program, you need to have Python 3 and OpenCV installed on your system. You can install OpenCV using pip:
